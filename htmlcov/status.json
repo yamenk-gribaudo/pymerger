@@ -1,0 +1,119 @@
+{
+  "format": 2,
+  "version": "7.2.7",
+  "globals": "f9907c418b8092d33fc56d3cd7d60c8a",
+  "files": {
+    "d_25ace4044b5cefe8___init___py": {
+      "hash": "3c77fc9ef7f887ac2508d4109cf92472",
+      "index": {
+        "nums": [0, 1, 0, 0, 0, 0, 0, 0],
+        "html_filename": "d_25ace4044b5cefe8___init___py.html",
+        "relative_filename": "docs/__init__.py"
+      }
+    },
+    "d_de2b88c185936345___init___py": {
+      "hash": "3b1abfd79f354b138c67f7dae846ce2c",
+      "index": {
+        "nums": [0, 1, 5, 0, 0, 0, 0, 0],
+        "html_filename": "d_de2b88c185936345___init___py.html",
+        "relative_filename": "pymerger/__init__.py"
+      }
+    },
+    "d_de2b88c185936345_circular_dependencies_py": {
+      "hash": "9d9d6c76d421db0b29b4593ee0a8258d",
+      "index": {
+        "nums": [0, 1, 26, 0, 0, 0, 0, 0],
+        "html_filename": "d_de2b88c185936345_circular_dependencies_py.html",
+        "relative_filename": "pymerger/circular_dependencies.py"
+      }
+    },
+    "d_de2b88c185936345_file_parser_py": {
+      "hash": "70869f3acba0a7b5fa8ec33112aa37ec",
+      "index": {
+        "nums": [0, 1, 105, 0, 5, 0, 0, 0],
+        "html_filename": "d_de2b88c185936345_file_parser_py.html",
+        "relative_filename": "pymerger/file_parser.py"
+      }
+    },
+    "d_de2b88c185936345_merger_py": {
+      "hash": "7e1943e79173065477069186345c97de",
+      "index": {
+        "nums": [0, 1, 232, 0, 40, 0, 0, 0],
+        "html_filename": "d_de2b88c185936345_merger_py.html",
+        "relative_filename": "pymerger/merger.py"
+      }
+    },
+    "d_de2b88c185936345_remove_comments_py": {
+      "hash": "1ebe6dc5ae22f2569a2994f93c0b6e8e",
+      "index": {
+        "nums": [0, 1, 30, 0, 27, 0, 0, 0],
+        "html_filename": "d_de2b88c185936345_remove_comments_py.html",
+        "relative_filename": "pymerger/remove_comments.py"
+      }
+    },
+    "d_36f028580bb02cc8___init___py": {
+      "hash": "3c77fc9ef7f887ac2508d4109cf92472",
+      "index": {
+        "nums": [0, 1, 0, 0, 0, 0, 0, 0],
+        "html_filename": "d_36f028580bb02cc8___init___py.html",
+        "relative_filename": "test/__init__.py"
+      }
+    },
+    "d_0016b93f3988b4e7___init___py": {
+      "hash": "3c77fc9ef7f887ac2508d4109cf92472",
+      "index": {
+        "nums": [0, 1, 0, 0, 0, 0, 0, 0],
+        "html_filename": "d_0016b93f3988b4e7___init___py.html",
+        "relative_filename": "test/circular_dependencies/__init__.py"
+      }
+    },
+    "d_0016b93f3988b4e7_test__py": {
+      "hash": "4030beb96affe37f586b76044b1100d1",
+      "index": {
+        "nums": [0, 1, 24, 0, 1, 0, 0, 0],
+        "html_filename": "d_0016b93f3988b4e7_test__py.html",
+        "relative_filename": "test/circular_dependencies/test_.py"
+      }
+    },
+    "d_25ace4044b5cefe8_conf_py": {
+      "hash": "330d910e3c771cb6c1feb473ba570d98",
+      "index": {
+        "nums": [0, 1, 28, 0, 28, 0, 0, 0],
+        "html_filename": "d_25ace4044b5cefe8_conf_py.html",
+        "relative_filename": "docs/conf.py"
+      }
+    },
+    "output_py": {
+      "hash": "8db28dbe56c13947dfb2d486592d75c5",
+      "index": {
+        "nums": [0, 1, 315, 0, 315, 0, 0, 0],
+        "html_filename": "output_py.html",
+        "relative_filename": "output.py"
+      }
+    },
+    "d_de2b88c185936345___main___py": {
+      "hash": "689678da387a6cf1e6c564f06d94d1cf",
+      "index": {
+        "nums": [0, 1, 9, 0, 9, 0, 0, 0],
+        "html_filename": "d_de2b88c185936345___main___py.html",
+        "relative_filename": "pymerger/__main__.py"
+      }
+    },
+    "setup_py": {
+      "hash": "acc471b52830a2fbacdd86206f501057",
+      "index": {
+        "nums": [0, 1, 23, 0, 23, 0, 0, 0],
+        "html_filename": "setup_py.html",
+        "relative_filename": "setup.py"
+      }
+    },
+    "d_de2b88c185936345_comments_py": {
+      "hash": "cd5a8d1cab03633f7ec2132e8b22e97a",
+      "index": {
+        "nums": [0, 1, 30, 0, 0, 0, 0, 0],
+        "html_filename": "d_de2b88c185936345_comments_py.html",
+        "relative_filename": "pymerger/comments.py"
+      }
+    }
+  }
+}

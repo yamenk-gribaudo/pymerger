@@ -1,0 +1,20 @@
+a_description_for_the_package: Python, MicroPython and CircuitPython file merger
+classifiers:
+- 'Topic :: Text Processing :: General'
+- 'Development Status :: 3 - Alpha'
+console_scripts: []
+first_year_of_publication: '2023'
+github_account: yamenk-gribaudo
+github_repo_name: pymerger
+keywords_describing_the_package: merger files
+license: MIT
+package_module_name: pymerger
+package_name: pymerger
+package_tagline: ''
+package_title: python file merger
+requires: []
+scripts: []
+your_author_name: yamenk
+your_email_address: yyaammeennkk@gmail.com
+your_full_name: ''
+your_name: ''
